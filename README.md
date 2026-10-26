@@ -1,3 +1,5 @@
+> 这个仓库已经归档，内容并入了 [lstm-attention-demand-forecasting/m5](https://github.com/lingtao-meng/lstm-attention-demand-forecasting/tree/main/m5)。后续优化在那边做。
+
 # M5 周度需求预测：FVA 和 newsvendor
 
 用 M5（Walmart 真实销售数据）做一个 item-store 级的周度需求预测。这个项目不是再比一次模型，主要想回答三个问题：
